@@ -1,7 +1,8 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/XXXXXXX?v=4" width="180" style="border-radius:50%;" />
+  <img src="https://github.com/manikandank8086.png" width="180" />
 </p>
+
 
 <h1 align="center">Manikandan K</h1>
 <h3 align="center">Backend-Focused MERN Full Stack Developer</h3>
