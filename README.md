@@ -1,94 +1,54 @@
-<!-- Profile Image -->
+<table>
+<tr>
+<td width="45%" valign="top">
+
 <p align="center">
-  <img src="https://github.com/manikandank8086.png" width="180" />
+  <img src="https://github.com/manikandank8086.png" width="160" />
 </p>
 
-
-<h1 align="center">Manikandan K</h1>
-<h3 align="center">Backend-Focused MERN Full Stack Developer</h3>
+<h2 align="center">Manikandan K</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manikandan-k-11612a251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:manikandank7x@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
-  </a>
-  <a href="https://github.com/manikandank8086">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github" />
-  </a>
+Backend-Focused MERN Full Stack Developer<br/>
+Node.js · Express · TypeScript · React · MongoDB
 </p>
 
 <p align="center">
-🚀 Building scalable backend systems & full-stack apps <br/>
-🤖 AI integrations (Groq, LLMs) <br/>
-☁️ AWS · DigitalOcean · Nginx
+📍 Malappuram, Kerala<br/>
+📧 <a href="mailto:manikandank7x@gmail.com">Email</a><br/>
+💼 <a href="https://www.linkedin.com/in/manikandan-k-11612a251/">LinkedIn</a><br/>
+🐙 <a href="https://github.com/manikandank8086">GitHub</a>
 </p>
 
----
+</td>
 
-## 🛠 Tech Stack
+<td width="55%" valign="top">
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts" />
-</p>
+<h3>🛠 Tech Stack</h3>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap" />
-</p>
+<b>Languages</b><br/>
+<img src="https://skillicons.dev/icons?i=js,ts" />
 
-### ⚙ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<br/><br/>
 
-### 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
+<b>Frontend</b><br/>
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap,antdesign" />
 
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,aws,nginx,docker,figma" />
-</p>
+<br/><br/>
 
----
+<b>Backend</b><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-## 🚀 Projects
-- 🛒 ShoeStruct (E-commerce)
-- 🏷 OLX Clone
-- 🎬 Netflix Clone
-- 👤 User Management System
+<br/><br/>
 
-🔗 **More projects:** https://github.com/manikandank8086?tab=repositories
+<b>Databases</b><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 
----
+<br/><br/>
 
-## 🏆 Achievements
-🏅 Tech Solutions Award – 2025
+<b>Tools & Platforms</b><br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,firebase,aws,nginx,docker,figma" />
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikandank8086&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikandank8086&theme=dark" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manikandank8086&theme=react-dark)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=manikandank8086&color=blue)
-
-⭐ *Open to opportunities & collaborations*
+</td>
+</tr>
+</table>
