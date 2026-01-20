@@ -1,54 +1,92 @@
-<table>
-<tr>
-<td width="45%" valign="top">
-
+<!-- HEADER -->
 <p align="center">
-  <img src="https://github.com/manikandank8086.png" width="160" />
+  <img src="https://github.com/manikandank8086.png" width="170" />
 </p>
 
-<h2 align="center">Manikandan K</h2>
-
+<h1 align="center">Manikandan K</h1>
 <p align="center">
-Backend-Focused MERN Full Stack Developer<br/>
-Node.js · Express · TypeScript · React · MongoDB
+  <b>Backend-Focused MERN Full Stack Developer</b>
 </p>
 
 <p align="center">
-📍 Malappuram, Kerala<br/>
-📧 <a href="mailto:manikandank7x@gmail.com">Email</a><br/>
-💼 <a href="https://www.linkedin.com/in/manikandan-k-11612a251/">LinkedIn</a><br/>
-🐙 <a href="https://github.com/manikandank8086">GitHub</a>
+  🚀 Scalable APIs • Clean Architecture • AI Integrations <br/>
+  ☁️ AWS • DigitalOcean • Nginx • Docker
 </p>
 
-</td>
+<p align="center">
+  <a href="https://www.linkedin.com/in/manikandan-k-11612a251/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:manikandank7x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/manikandank8086">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<td width="55%" valign="top">
+---
 
-<h3>🛠 Tech Stack</h3>
+## ⚡ Tech Stack
 
-<b>Languages</b><br/>
-<img src="https://skillicons.dev/icons?i=js,ts" />
+### 🧠 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
 
-<br/><br/>
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap,antdesign,framer" />
+</p>
 
-<b>Frontend</b><br/>
-<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap,antdesign" />
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<br/><br/>
+### 🗄 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
 
-<b>Backend</b><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+### 🛠 Tools & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,aws,nginx,docker,figma" />
+</p>
 
-<br/><br/>
+---
 
-<b>Databases</b><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+## 🚀 Selected Projects
+<p align="center">
+🛒 ShoeStruct • 🏷 OLX Clone • 🎬 Netflix Clone • 👤 User Management
+</p>
 
-<br/><br/>
+<p align="center">
+🔗 <a href="https://github.com/manikandank8086?tab=repositories">View All Repositories</a>
+</p>
 
-<b>Tools & Platforms</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,firebase,aws,nginx,docker,figma" />
+---
 
-</td>
-</tr>
-</table>
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manikandank8086&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikandank8086&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manikandank8086&theme=react-dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manikandank8086&color=blue"/>
+</p>
+
+<p align="center">
+⭐ Open to backend & full-stack opportunities
+</p>
